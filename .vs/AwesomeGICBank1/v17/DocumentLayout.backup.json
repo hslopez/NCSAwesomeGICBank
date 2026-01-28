@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\TestProj\\AwesomeGICBank1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\db\\efpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:db\\efpersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\interfaces\\istatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:interfaces\\istatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\interfaces\\ipersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:interfaces\\ipersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\services\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:services\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\6ce29b0d335e8840d56755a9ef3fbf7db75e32a0e937a7e46f4cd61e9e698cf3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\db\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:db\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\db\\bankdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:db\\bankdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\awesomegicbank1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:awesomegicbank1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\services\\consolestatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:services\\consolestatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\services\\consoleuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:services\\consoleuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|c:\\work\\testproj\\awesomegicbank1\\interfaces\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D7232-B611-4555-ABA5-339F45F28993}|AwesomeGICBank1.csproj|solutionrelative:interfaces\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C8416-C65C-44C4-9C5B-B3465285A223}|BankAccountTests\\AwesomeGICBank1.Tests.csproj|c:\\work\\testproj\\awesomegicbank1\\bankaccounttests\\awesomegicbank1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B4C8416-C65C-44C4-9C5B-B3465285A223}|BankAccountTests\\AwesomeGICBank1.Tests.csproj|solutionrelative:bankaccounttests\\awesomegicbank1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\TestProj\\AwesomeGICBank1\\obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C8416-C65C-44C4-9C5B-B3465285A223}|BankAccountTests\\AwesomeGICBank1.Tests.csproj|c:\\work\\testproj\\awesomegicbank1\\bankaccounttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C8416-C65C-44C4-9C5B-B3465285A223}|BankAccountTests\\AwesomeGICBank1.Tests.csproj|solutionrelative:bankaccounttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOIUAAAAAAAAAAArwO8UAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-27T08:45:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfPersistenceService.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\EfPersistenceService.cs",
+              "RelativeDocumentMoniker": "DB\\EfPersistenceService.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\EfPersistenceService.cs",
+              "RelativeToolTip": "DB\\EfPersistenceService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:22:35.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersistenceService.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IPersistenceService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPersistenceService.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IPersistenceService.cs",
+              "RelativeToolTip": "Interfaces\\IPersistenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:23:58.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\Transaction.cs",
+              "RelativeDocumentMoniker": "Services\\Transaction.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\Transaction.cs",
+              "RelativeToolTip": "Services\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:01:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\UnitTest1.cs",
+              "RelativeToolTip": "BankAccountTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:18:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccountService.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\BankAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\BankAccountService.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\BankAccountService.cs",
+              "RelativeToolTip": "Services\\BankAccountService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:58:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStatementPrinter.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IStatementPrinter.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStatementPrinter.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IStatementPrinter.cs",
+              "RelativeToolTip": "Interfaces\\IStatementPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:52:52.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfiguredValueTaskAwaitable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\6ce29b0d335e8840d56755a9ef3fbf7db75e32a0e937a7e46f4cd61e9e698cf3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Admin\\AppData\\Local\\SourceServer\\6ce29b0d335e8840d56755a9ef3fbf7db75e32a0e937a7e46f4cd61e9e698cf3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\6ce29b0d335e8840d56755a9ef3fbf7db75e32a0e937a7e46f4cd61e9e698cf3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Admin\\AppData\\Local\\SourceServer\\6ce29b0d335e8840d56755a9ef3fbf7db75e32a0e937a7e46f4cd61e9e698cf3\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAApwJkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:50:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAASwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:43:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\BankDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DB\\BankDbContextFactory.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\BankDbContextFactory.cs",
+              "RelativeToolTip": "DB\\BankDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:34:32.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\BankDbContext.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\DB\\BankDbContext.cs",
+              "RelativeToolTip": "DB\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:21:18.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJkAAAAAAAAAAAArwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-27T05:16:22.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AwesomeGICBank1.csproj",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\AwesomeGICBank1.csproj",
+              "RelativeDocumentMoniker": "AwesomeGICBank1.csproj",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\AwesomeGICBank1.csproj",
+              "RelativeToolTip": "AwesomeGICBank1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T03:33:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-27T04:40:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsoleUserInterface.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\ConsoleUserInterface.cs",
+              "RelativeDocumentMoniker": "Services\\ConsoleUserInterface.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\ConsoleUserInterface.cs",
+              "RelativeToolTip": "Services\\ConsoleUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:15:49.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserInterface.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IUserInterface.cs",
+              "RelativeToolTip": "Interfaces\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:53:08.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleStatementPrinter.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\ConsoleStatementPrinter.cs",
+              "RelativeDocumentMoniker": "Services\\ConsoleStatementPrinter.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Services\\ConsoleStatementPrinter.cs",
+              "RelativeToolTip": "Services\\ConsoleStatementPrinter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:12:32.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBankAccountService.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IBankAccountService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBankAccountService.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\Interfaces\\IBankAccountService.cs",
+              "RelativeToolTip": "Interfaces\\IBankAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:52:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AwesomeGICBank1.Tests.csproj",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\AwesomeGICBank1.Tests.csproj",
+              "RelativeDocumentMoniker": "BankAccountTests\\AwesomeGICBank1.Tests.csproj",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\AwesomeGICBank1.Tests.csproj",
+              "RelativeToolTip": "BankAccountTests\\AwesomeGICBank1.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T03:32:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AwesomeGICBank1.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "BankAccountTests\\obj\\Debug\\net9.0\\AwesomeGICBank1.Tests.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:29:27.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BankAccountTests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs",
+              "RelativeToolTip": "BankAccountTests\\obj\\Debug\\net9.0\\BankAccountTests.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:22:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AwesomeGICBank1.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Work\\TestProj\\AwesomeGICBank1\\obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs",
+              "ToolTip": "C:\\Work\\TestProj\\AwesomeGICBank1\\obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0\\AwesomeGICBank1.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:22:41.534Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
